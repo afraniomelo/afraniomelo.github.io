@@ -2,9 +2,9 @@
 layout: page
 title: ensino
 permalink: /ensino/
-description: A growing collection of your cool projects.
+description: Materiais de cursos e disciplinas.
 nav: true
-display_categories: [work, fun]
+display_categories: [cursos, disciplinas]
 horizontal: false
 ---
 

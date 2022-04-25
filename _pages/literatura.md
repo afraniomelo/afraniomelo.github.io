@@ -2,9 +2,9 @@
 layout: page
 title: literatura
 permalink: /literatura/
-description: A growing collection of your cool projects.
+description: Alguns textos literários.
 nav: true
-display_categories: [work, fun]
+display_categories: [contos]
 horizontal: false
 ---
 
