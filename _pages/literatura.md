@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projetos
-permalink: /projetos/
+title: literatura
+permalink: /literatura/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]

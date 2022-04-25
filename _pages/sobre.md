@@ -27,6 +27,7 @@ Como engenheiro químico:
 
 - Possuo graduação (2014) pela EQ/UFRJ e mestrado/doutorado (2016/2022) pela COPPE/UFRJ. Ao longo desses doze anos de formação tive a honra de ser orientado por José Carlos Pinto, Fernando Pellegrini, Maurício Câmara e Heloísa Sanches.
 - Participei de projetos de pesquisa de parceria entre a COPPE e a Petrobras sobre aprendizado de máquina, monitoramento e controle estatístico de processos, prognóstico de falhas, modelagem de separação em membranas e análise dinâmica baseada em dados.
+- Publiquei artigos científicos nos periódicos Computers and Chemical Engineering, Processes e Chemical Engineering Research and Design.
 - Atuei como voluntário da ONG Engenheiros sem Fronteiras (RJ).
 
 Como professor: 
