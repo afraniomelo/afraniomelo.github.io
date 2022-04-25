@@ -2,7 +2,7 @@
 layout: page
 permalink: /ciencia/
 title: ciência
-description:
+description: Trabalhos científicos.
 years: [2022, 2021, 2019]
 nav: true
 ---

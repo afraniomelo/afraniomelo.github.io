@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Olá, bem-vindo(a) à minha página! Aqui compartilho informações sobre meu trabalho. Confira links, aulas, recursos e textos nas abas acima. Abaixo segue um resumo.
+Olá, bem-vindo(a) à minha página! Aqui compartilho informações sobre meu trabalho. Confira links, aulas, recursos e textos nas abas acima. Abaixo segue um resumo e, ao pé da página, meios de contato.
 
 Como escritor literário:
 

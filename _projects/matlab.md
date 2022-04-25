@@ -1,9 +1,9 @@
 ---
 layout: page
 title: matlab
-description: ​ Introdução ao MATLAB para Engenharia
+description: ​Introdução ao MATLAB para Engenharia.
 img: assets/img/matlab.jpg
-importance: 3
+importance: 4
 category: cursos
 ---
 

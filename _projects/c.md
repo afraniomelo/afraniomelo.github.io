@@ -1,9 +1,9 @@
 ---
 layout: page
-title: programação em c/c++
+title: c/c++
 description: Curso de Introdução à programação em C/C++.
 img: assets/img/cpp.jpg
-importance: 4
+importance: 3
 category: cursos
 ---
 
