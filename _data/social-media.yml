@@ -1,0 +1,18 @@
+email:
+  id: 'afraeq@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope'
+
+instagram:
+  id: 'afra.nio_'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram'
+
+github:
+  id: 'afraniomelo'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github'
+
