@@ -1,10 +1,11 @@
 ---
 layout: page
 title: c/c++
-description: Curso de Introdução à programação em C/C++.
+description: Introdução à programação em C/C++ (slides e códigos).
 img: assets/img/cpp.jpg
-importance: 3
+importance: 4
 category: cursos
 ---
 
-Material do curso de Introdução à programação em C/C++.
+* [Slides](https://github.com/afraniomelo/curso-c-cpp/blob/master/curso_c.pdf).
+* [Códigos](https://github.com/afraniomelo/curso-c-cpp/tree/master/codigos).
