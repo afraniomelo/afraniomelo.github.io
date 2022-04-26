@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-{% include social-media-links.html %}
+{% include social-media-links.html%} 
+{% include social-sci-links.html%}
+
 
 Olá, bem-vindo(a) à minha página! Aqui compartilho informações sobre meu trabalho. Confira links, aulas, recursos e textos nas abas acima. Abaixo segue um resumo e, ao pé da página, meios de contato.
 
@@ -36,5 +38,5 @@ Como professor:
 
 - Lecionei por dez anos no [Pré-Vestibular Social (PVS) da Fundação CECIERJ](https://www.cecierj.edu.br/pre-vestibular-social/) como bolsista-mediador de Química.
 - Ministrei por um ano as disciplinas "Transferência de Massa" e "Operações Unitárias" como contratado na [EQ/UFRJ](http://www.eq.ufrj.br/).
-- Ministrei o curso "Data Science e Machine Learning na Prática" pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/) na COPPE/UFRJ. As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis na íntegra no YouTube.
+- Ministrei o curso "Data Science e Machine Learning na Prática" pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis na íntegra no YouTube.
 - Ministrei minicursos de programação em Python, Matlab e C++.

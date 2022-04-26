@@ -1,0 +1,11 @@
+lattes:
+  id: '3513511798041552'
+  href: 'https://lattes.cnpq.br/'
+  title: 'Lattes'
+  ai-icon: 'ai-lattes'
+  
+orcid:
+  id: '0000-0002-7279-3981'
+  href: 'https://orcid.org/'
+  title: 'ORCID'
+  ai-icon: 'ai-orcid'
