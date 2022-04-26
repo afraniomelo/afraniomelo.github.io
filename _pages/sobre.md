@@ -15,10 +15,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 {% include social-media-links.html%} 
-{% include social-sci-links.html%}
 
-
-Olá, bem-vindo(a) à minha página! Aqui compartilho informações sobre meu trabalho. Confira links, aulas, recursos e textos nas abas acima. Abaixo segue um resumo e, ao pé da página, meios de contato.
+Olá, bem-vindo(a) à minha página! Aqui compartilho informações sobre meu trabalho. Confira links, aulas, recursos e textos nas abas acima. Abaixo segue um resumo.
 
 Como escritor literário:
 

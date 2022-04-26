@@ -1,9 +1,3 @@
-email:
-  id: 'afraeq@gmail.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope'
-
 instagram:
   id: 'afra.nio_'
   href: 'https://www.instagram.com/'
@@ -16,14 +10,15 @@ linkedin:
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin'
   
+kaggle:
+  id: 'afrniomelo'
+  href: 'https://kaggle.com/'
+  title: 'Kaggle'
+  fa-icon: 'fa-kaggle'
+  
 github:
   id: 'afraniomelo'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github'
 
-kaggle:
-  id: 'afrniomelo'
-  href: 'https://kaggle.com/'
-  title: 'Kaggle'
-  fa-icon: 'fa-kaggle'

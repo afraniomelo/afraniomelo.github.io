@@ -1,10 +1,26 @@
 {% if site.data.social-media %}
 <div id="social-media">
+
+    {% assign m = site.data.mail %}
+    {% for entry in m %}
+        {% assign key = entry | first %}
+        {% if m[key].id %}
+            <a href="{{ m[key].href }}{{ m[key].id }}" title="{{ m[key].title }}"><i class="fa {{ m[key].fa-icon }}"></i></a>
+        {% endif %}
+    {% endfor %}	
+
     {% assign sm = site.data.social-media %}
     {% for entry in sm %}
         {% assign key = entry | first %}
         {% if sm[key].id %}
             <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fab {{ sm[key].fa-icon }}"></i></a>
+        {% endif %}
+    {% endfor %}
+    {% assign ss = site.data.social-sci %}
+    {% for entry in ss %}
+        {% assign key = entry | first %}
+        {% if ss[key].id %}
+            <a href="{{ ss[key].href }}{{ ss[key].id }}" title="{{ ss[key].title }}"><i class="ai {{ ss[key].ai-icon }}"></i></a>
         {% endif %}
     {% endfor %}
 </div>

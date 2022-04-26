@@ -2,6 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+# icones: https://jreel.github.io/social-media-icons-on-jekyll/
+
 title: afrânio melo # the website title (if blank, full name will be used instead)
 first_name: afrânio
 middle_name: 
