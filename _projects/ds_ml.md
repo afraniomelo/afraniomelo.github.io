@@ -23,28 +23,5 @@ O curso é organizado por temas em 7 aulas, estas por sua vez divididas em 12 vi
 
 ## Videoaulas
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/0iE3JsQpU_U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/erzt6Txvzdo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/UYlvhi8QFDA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/xblIKq7JJJo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/RmO9-Tx31x8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/rg6-k91hvy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/EhXT_uWNuCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/e65Ix1T1N2U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/cd-VSQeiPSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/1XS8Sw8jeuI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/w0NDlRuTkVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/jClGNMOcGJs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+Clique [aqui](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) para acessar a playlist.
 
