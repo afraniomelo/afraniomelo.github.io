@@ -22,7 +22,7 @@ Como escritor literário:
 
 - Participei das coletâneas Furos na carne (Patuá - 2022, em processo de edição), [Questão de tempo](https://www.editorapersona.com/product-page/quest%C3%A3o-de-tempo) (Persona - 2022), Contos fantásticos (CBJE - 2017), Nó em pingo d'água (CBJE - 2016) e Histórias necessárias (Big Time - 2015).
 - Venci o [Prêmio Literário Hernâni Cidade](http://premioliterariohernanicidade.blogspot.com/) de 2021, oferecido pelo município de [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), com o conto [Porta de Pérola](https://afraniomelo.github.io/projects/porta_de_perola/).
-- Cursei em 2021 a 51ᵃ edição da [Oficina de Criação Literária da PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), ministrada por [Luiz Antônio de Assis Brasil](http://www.laab.com.br/vida.html).
+- Cursei em 2021 a 51ᵃ edição da [Oficina de Criação Literária da PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), ministrada por [Luiz Antonio de Assis Brasil](http://www.laab.com.br/vida.html).
 
 Como engenheiro químico:
 
