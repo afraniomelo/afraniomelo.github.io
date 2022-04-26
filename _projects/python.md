@@ -2,7 +2,7 @@
 layout: page
 title: python
 description: ​Curso relâmpago de Python (notebook Jupyter).
-img: assets/img/python
+img: assets/img/python.png
 importance: 2
 category: cursos
 ---
