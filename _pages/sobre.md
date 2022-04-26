@@ -21,9 +21,8 @@ Olá, bem-vindo(a)! Aqui compartilho informações sobre meu trabalho. Confira l
 Como escritor literário:
 
 - Participei das coletâneas Furos na carne (Patuá - 2022, em processo de edição), [Questão de tempo](https://www.editorapersona.com/product-page/quest%C3%A3o-de-tempo) (Persona - 2022), Contos fantásticos (CBJE - 2017), Nó em pingo d'água (CBJE - 2016) e Histórias necessárias (Big Time - 2015).
-- Venci o [Prêmio Literário Hernâni Cidade](http://premioliterariohernanicidade.blogspot.com/) de 2021, oferecido pelo município de [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), com o conto "Porta de Pérola".
+- Venci o [Prêmio Literário Hernâni Cidade](http://premioliterariohernanicidade.blogspot.com/) de 2021, oferecido pelo município de [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), com o conto [Porta de Pérola](https://afraniomelo.github.io/projects/porta_de_perola/).
 - Cursei em 2021 a 51ᵃ edição da [Oficina de Criação Literária da PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), ministrada por [Luiz Antônio de Assis Brasil](http://www.laab.com.br/vida.html).
-
 
 Como engenheiro químico:
 
@@ -35,6 +34,6 @@ Como engenheiro químico:
 Como professor: 
 
 - Lecionei por dez anos no [Pré-Vestibular Social (PVS) da Fundação CECIERJ](https://www.cecierj.edu.br/pre-vestibular-social/) como bolsista-mediador de Química.
-- Ministrei por um ano as disciplinas "Transferência de Massa" e "Operações Unitárias" como contratado na [EQ/UFRJ](http://www.eq.ufrj.br/).
-- Ministrei o curso "Data Science e Machine Learning na Prática" pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis na íntegra no YouTube.
-- Ministrei minicursos de programação em Python, Matlab e C++.
+- Ministrei por um ano as disciplinas [Transferência de Massa](https://afraniomelo.github.io/projects/eqe476/) e [Operações Unitárias I](https://afraniomelo.github.io/projects/eqe473/) como contratado na [EQ/UFRJ](http://www.eq.ufrj.br/).
+- Ministrei o curso [Data Science e Machine Learning na Prática](https://afraniomelo.github.io/projects/ds_ml/) pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis na íntegra no YouTube.
+- Ministrei minicursos de programação em [Python](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook), [Matlab](https://afraniomelo.github.io/projects/matlab/) e [C/C++](https://afraniomelo.github.io/projects/c/).

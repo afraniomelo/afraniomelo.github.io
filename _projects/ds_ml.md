@@ -11,7 +11,7 @@ A indústria mundial passa por uma transformação conhecida como a Quarta Revol
 
 ## Material
 
-O curso é organizado por tema em 7 aulas, estas por sua vez divididas em 12 videoaulas:
+O curso é organizado por temas em 7 aulas, estas por sua vez divididas em 12 videoaulas:
 
 * [Aula 0 -- Introdução](https://drive.google.com/file/d/1c8L3PrAyw_rI_1fMCYWvgJjJjdVYQWYD/view), correspondente à Videoaula 1.
 * [Aula 1 -- Regressão com florestas aleatórias](https://www.kaggle.com/afrniomelo/epv-peq-aula-1-regress-o), correspondente às Videoaulas 2, 3 e 4.
