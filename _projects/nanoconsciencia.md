@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nanoconsciência
-description: Publicado nas antologias Furos na carne (Patuá, 2022) e Questão de tempo (Persona, 2022).
+description: Publicado nas antologias Furos na carne (Bestiário, 2022) e Questão de tempo (Persona, 2022).
 img: assets/img/nanoconsciencia.jpg
 importance: 3
 category: contos
