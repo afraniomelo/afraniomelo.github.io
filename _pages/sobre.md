@@ -26,7 +26,7 @@ Como escritor literário:
 
 Como engenheiro químico:
 
-- Possuo graduação pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado/doutorado (em finalização) pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
+- Possuo graduação pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado+doutorado (em finalização) pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
 - Participei de projetos de pesquisa de parceria entre a [COPPE](https://www.coppe.ufrj.br/) e a [Petrobras](https://petrobras.com.br/pt/) sobre aprendizado de máquina, monitoramento e controle estatístico de processos, prognóstico de falhas, modelagem de separação em membranas e análise dinâmica baseada em dados.
 - Publiquei artigos científicos nos periódicos [Computers and Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Processes](https://www.mdpi.com/journal/processes) e [Chemical Engineering Research and Design](https://www.journals.elsevier.com/chemical-engineering-research-and-design).
 - Atuei como voluntário da ONG [Engenheiros sem Fronteiras (RJ)](https://esf.org.br/nucleo-rio-de-janeiro/).
