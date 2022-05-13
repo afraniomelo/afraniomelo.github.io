@@ -3,7 +3,7 @@ layout: page
 title: segunda barreira
 description: Publicado na antologia Furos na carne (Bestiário, 2022).
 img: assets/img/segunda-barreira.jpg
-importance: 5
+importance: 6
 category: contos
 ---
 

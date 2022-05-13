@@ -3,7 +3,7 @@ layout: page
 title: guinas
 description: Publicado na antologia Furos na carne (Bestiário, 2022).
 img: assets/img/guinas.jpg
-importance: 2
+importance: 3
 category: contos
 ---
 

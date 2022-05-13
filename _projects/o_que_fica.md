@@ -3,7 +3,7 @@ layout: page
 title: o que fica
 description: Publicado na antologia Furos na carne (Bestiário, 2022).
 img: assets/img/oqf.jpg
-importance: 4
+importance: 5
 category: contos
 ---
 
