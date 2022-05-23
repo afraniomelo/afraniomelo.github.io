@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 Olá, galera!
-​
+
 Neste texto vou tentar esclarecer o grande mistério que há em torno da engenharia química. O que realmente se aprende? Com o que se trabalha depois de formado? Qual a diferença para o curso de química? 
 
 Vamos começar definindo esta diferença. O curso de química estuda a estrutura, propriedades e transformações da matéria. A engenharia química tem como objetivo principal utilizar estes conhecimentos para obter produtos de interesse econômico e social industrialmente. 
