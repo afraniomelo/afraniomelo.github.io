@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'jekyll-seo-tag'
+    gem 'jekyll-google_search_console_verification_file'
 end
 group :other_plugins do
     gem 'httparty'
