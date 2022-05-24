@@ -5,7 +5,7 @@
     {% for entry in m %}
         {% assign key = entry | first %}
         {% if m[key].id %}
-            <a href="{{ m[key].href }}{{ m[key].id }}" title="{{ m[key].title }}"><i class="fa {{ m[key].fa-icon }}"></i></a>
+            <a href="{{ m[key].href }}{{ m[key].id | encode_email}}" title="{{ m[key].title }}"><i class="fa {{ m[key].fa-icon }}"></i></a>
         {% endif %}
     {% endfor %}	
 
