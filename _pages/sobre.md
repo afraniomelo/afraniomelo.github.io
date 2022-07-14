@@ -34,6 +34,6 @@ Como engenheiro químico:
 Como professor: 
 
 - Ministrei o curso [Data Science e Machine Learning na Prática](https://afraniomelo.github.io/projects/ds_ml/) pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis no YouTube.
-- Ministrei por um ano as disciplinas [Transferência de Massa](https://afraniomelo.github.io/projects/eqe476/) e [Operações Unitárias I](https://afraniomelo.github.io/projects/eqe473/) como contratado na [EQ/UFRJ](http://www.eq.ufrj.br/).
+- Ministrei por um ano as disciplinas [Transferência de Massa](https://afraniomelo.github.io/projects/eqe476/) e [Operações Unitárias I](https://afraniomelo.github.io/projects/eqe473/) na [EQ/UFRJ](http://www.eq.ufrj.br/).
 - Lecionei por dez anos no [Pré-Vestibular Social (PVS) da Fundação CECIERJ](https://www.cecierj.edu.br/pre-vestibular-social/) como bolsista-mediador de [Química](https://afraniomelo.github.io/projects/pvs/).
 - Ministrei minicursos de programação em [Python](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook), [Matlab](https://afraniomelo.github.io/projects/matlab/) e [C/C++](https://afraniomelo.github.io/projects/c/).
