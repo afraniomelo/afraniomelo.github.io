@@ -1,8 +1,8 @@
 scholar:
-	id: 'qklK--0AAAAJ'
-	href: 'https://scholar.google.com.br/citations?user='
-	title: 'Google Scholar'
-	ai-icon: 'ai-google-scholar'
+  id: 'citations?user=qklK--0AAAAJ'
+  href: 'https://scholar.google.com.br/'
+  title: 'Google Scholar'
+  ai-icon: 'ai-google-scholar'
 
 lattes:
   id: '3513511798041552'
