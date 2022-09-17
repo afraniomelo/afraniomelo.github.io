@@ -1,15 +1,3 @@
-researchgate:
-  id: 'Afranio-Melo-2'
-  href: 'https://www.researchgate.net/profile/'
-  title: 'ResearchGate'
-  ai-icon: 'ai-researchgate'
-
-scholar:
-  id: 'citations?user=qklK--0AAAAJ'
-  href: 'https://scholar.google.com.br/'
-  title: 'Google Scholar'
-  ai-icon: 'ai-google-scholar'
-  
 orcid:
   id: '0000-0002-7279-3981'
   href: 'https://orcid.org/'
@@ -21,3 +9,15 @@ lattes:
   href: 'https://lattes.cnpq.br/'
   title: 'Lattes'
   ai-icon: 'ai-lattes'
+
+researchgate:
+  id: 'Afranio-Melo-2'
+  href: 'https://www.researchgate.net/profile/'
+  title: 'ResearchGate'
+  ai-icon: 'ai-researchgate'
+
+scholar:
+  id: 'citations?user=qklK--0AAAAJ'
+  href: 'https://scholar.google.com.br/'
+  title: 'Google Scholar'
+  ai-icon: 'ai-google-scholar'
