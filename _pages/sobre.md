@@ -2,7 +2,7 @@
 layout: about
 title: sobre
 permalink: /
-subtitle: escritor/cientista de dados/engenheiro químico/professor
+subtitle: cientista de dados/engenheiro químico/professor/escritor
 
 profile:
   align: right
@@ -18,22 +18,13 @@ social: false  # includes social icons at the bottom of the page
 
 Olá, bem-vindo(a)! Aqui compartilho um pouco do meu trabalho. Acesse textos, aulas, links e recursos nas abas do topo da página. Confira formas de contato e informações adicionais nos ícones acima. Abaixo segue um resumo.
 
-Como escritor literário:
+Como cientista de dados e engenheiro químico:
 
-- Participei das coletâneas Furos na carne (Bestiário - 2022, em processo de edição), [Questão de tempo](https://www.editorapersona.com/product-page/quest%C3%A3o-de-tempo) (Persona - 2022), Contos fantásticos (CBJE - 2017), Nó em pingo d'água (CBJE - 2016) e Histórias necessárias (Big Time - 2015).
-- Venci o [Prêmio Literário Hernâni Cidade](http://premioliterariohernanicidade.blogspot.com/) de 2021, oferecido pelo município de [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), com o conto [Porta de Pérola](https://afraniomelo.github.io/projects/porta_de_perola/).
-- Cursei em 2021 a 36ᵃ edição da [Oficina de Criação Literária da PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), ministrada por [Luiz Antonio de Assis Brasil](http://www.laab.com.br/vida.html).
-
-Como cientista de dados:
-
-- Sou recém-contratado pela [Petrobras](https://petrobras.com.br/pt/), atualmente cursando o programa de capacitação da companhia.
-- Desenvolvi e mantenho a biblioteca [KydLIB](https://github.com/afraniomelo/kydlib) para análise exploratória de dados oriundos principalmente de séries temporais industriais.
-
-Como engenheiro químico:
-
-- Possuo graduação pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado+doutorado (em finalização) pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
-- Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa de parceria entre o grupo e a [Petrobras](https://petrobras.com.br/pt/) sobre aprendizado de máquina, monitoramento e controle estatístico de processos, prognóstico de falhas, modelagem de separação em membranas e análise dinâmica baseada em dados. Os projetos resultaram na produção de vários softwares utilizados na indústria como ProFal, SmartVent, BibMon e MemBRain.
+- Sou recém-contratado pela [Petrobras](https://petrobras.com.br/pt/), atualmente cursando o programa de capacitação da companhia na ênfase de ciência de dados.
+- Possuo graduação em engenharia química pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado+doutorado (em finalização) pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
+- Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa de parceria entre o grupo e a [Petrobras](https://petrobras.com.br/pt/) sobre a interface entre ciência de dados e engenharia de sistemas em processos. Em particular, atuei no aprendizado de máquina, monitoramento e controle estatístico de processos, prognóstico de falhas, modelagem de separação em membranas e análise dinâmica baseada em dados. Os projetos resultaram na produção de vários softwares utilizados na indústria como ProFal, SmartVent, BibMon e MemBRain.
 - Publiquei artigos científicos nos periódicos [Computers & Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Processes](https://www.mdpi.com/journal/processes) e [Chemical Engineering Research and Design](https://www.journals.elsevier.com/chemical-engineering-research-and-design).
+- Desenvolvi e mantenho a biblioteca [KydLIB](https://github.com/afraniomelo/kydlib) para análise exploratória de dados oriundos principalmente de séries temporais industriais.
 - Atuei como voluntário da ONG [Engenheiros sem Fronteiras (RJ)](https://esf.org.br/nucleo-rio-de-janeiro/).
 
 Como professor: 
@@ -42,3 +33,10 @@ Como professor:
 - Ministrei por um ano as disciplinas [Transferência de Massa](https://afraniomelo.github.io/projects/eqe476/) e [Operações Unitárias I](https://afraniomelo.github.io/projects/eqe473/) na [EQ/UFRJ](http://www.eq.ufrj.br/).
 - Lecionei por dez anos no [Pré-Vestibular Social (PVS) da Fundação CECIERJ](https://www.cecierj.edu.br/pre-vestibular-social/) como bolsista-mediador de [Química](https://afraniomelo.github.io/projects/pvs/).
 - Ministrei minicursos de programação em [Python](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook), [Matlab](https://afraniomelo.github.io/projects/matlab/) e [C/C++](https://afraniomelo.github.io/projects/c/).
+
+Como escritor literário:
+
+- Participei das coletâneas Furos na carne (Bestiário - 2022, em processo de edição), [Questão de tempo](https://www.editorapersona.com/product-page/quest%C3%A3o-de-tempo) (Persona - 2022), Contos fantásticos (CBJE - 2017), Nó em pingo d'água (CBJE - 2016) e Histórias necessárias (Big Time - 2015).
+- Venci o [Prêmio Literário Hernâni Cidade](http://premioliterariohernanicidade.blogspot.com/) de 2021, oferecido pelo município de [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), com o conto [Porta de Pérola](https://afraniomelo.github.io/projects/porta_de_perola/).
+- Cursei em 2021 a 36ᵃ edição da [Oficina de Criação Literária da PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), ministrada por [Luiz Antonio de Assis Brasil](http://www.laab.com.br/vida.html).
+- Estou na saga da escrita do primeiro romance.
