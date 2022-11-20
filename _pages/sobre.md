@@ -27,7 +27,7 @@ Como escritor literário:
 
 Como cientista de dados e engenheiro químico:
 
-- Trabalho na [Petrobras](https://petrobras.com.br/pt/), atualmente cursando o programa de capacitação da companhia na ênfase de ciência de dados.
+- Trabalho na [Petrobras](https://petrobras.com.br/pt/) atuando com pesquisa, desenvolvimento e inovação na área de [Elevação e Escoamento](https://pt.wikipedia.org/wiki/Eleva%C3%A7%C3%A3o_de_petr%C3%B3leo).
 - Possuo graduação pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado+doutorado (em finalização)  em engenharia química pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
 - Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa de parceria entre o grupo e a [Petrobras](https://petrobras.com.br/pt/) sobre a interface entre ciência de dados e engenharia de sistemas em processos. Em particular, trabalhei com aprendizado de máquina, monitoramento e controle estatístico de processos, prognóstico de falhas, modelagem de separação em membranas e análise dinâmica baseada em dados. Os projetos resultaram na produção de vários softwares utilizados na indústria como ProFal, SmartVent, BibMon e MemBRain, todos registrados ou em processo de registro no [INPI](https://www.gov.br/inpi/pt-br).
 - Publiquei artigos científicos nos periódicos [Computers & Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Processes](https://www.mdpi.com/journal/processes) e [Chemical Engineering Research and Design](https://www.journals.elsevier.com/chemical-engineering-research-and-design).
@@ -36,7 +36,7 @@ Como cientista de dados e engenheiro químico:
 
 Como professor: 
 
-- Ministrei o curso [Data Science e Machine Learning na Prática](https://afraniomelo.github.io/projects/ds_ml/) pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis no YouTube.
+- Ministrei o curso [Data Science e Machine Learning na Indústria de Processos](https://afraniomelo.github.io/projects/ds_ml/) pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis no YouTube.
 - Ministrei por um ano as disciplinas [Transferência de Massa](https://afraniomelo.github.io/projects/eqe476/) e [Operações Unitárias I](https://afraniomelo.github.io/projects/eqe473/) na [EQ/UFRJ](http://www.eq.ufrj.br/).
 - Lecionei por dez anos no [Pré-Vestibular Social (PVS) da Fundação CECIERJ](https://www.cecierj.edu.br/pre-vestibular-social/) como bolsista-mediador de [Química](https://afraniomelo.github.io/projects/pvs/).
 - Ministrei minicursos de programação em [Python](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook), [Matlab](https://afraniomelo.github.io/projects/matlab/) e [C/C++](https://afraniomelo.github.io/projects/c/).
