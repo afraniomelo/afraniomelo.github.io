@@ -4,7 +4,7 @@ title: literatura
 permalink: /literatura/
 description: Alguns de meus textos literários.
 nav: true
-display_categories: [contos]
+display_categories: [contos, discursos]
 horizontal: false
 ---
 
