@@ -2,7 +2,7 @@
 layout: about
 title: sobre
 permalink: /
-subtitle: cientista de dados/engenheiro químico/professor/escritor
+subtitle: ciência, tecnologia & literatura
 
 profile:
   align: right
