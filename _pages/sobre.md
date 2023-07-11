@@ -18,11 +18,11 @@ social: false  # includes social icons at the bottom of the page
 
 Olá, bem-vindo(a)! Aqui compartilho um pouco do meu trabalho. Acesse textos, aulas, links e recursos nas abas do topo da página. Confira formas de contato e informações adicionais nos ícones acima. Abaixo segue um resumo.
 
-Como cientista de dados e engenheiro químico:
+Como engenheiro químico e cientista de dados:
 
 - Atuo na [Petrobras](https://petrobras.com.br/pt/) desenvolvendo pesquisa e inovação na área de [exploração e produção de petróleo e gás](https://petrobras.com.br/pt/nossas-atividades/areas-de-atuacao/exploracao-e-producao-de-petroleo-e-gas/), com ênfase em tecnologias de [elevação artificial](https://pt.wikipedia.org/wiki/Eleva%C3%A7%C3%A3o_de_petr%C3%B3leo) e [garantia de escoamento](https://pt.wikipedia.org/wiki/Garantia_do_escoamento).
 - Possuo graduação pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado e doutorado em engenharia química pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
-- Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa de parceria entre o grupo e a [Petrobras](https://petrobras.com.br/pt/) sobre a interface entre ciência de dados e engenharia de sistemas em processos.
+- Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa sobre a interface entre ciência de dados e engenharia de sistemas em processos, em particular desenvolvendo metodologias para o monitoramento de processos baseado em dados.
 - Publiquei artigos científicos nos periódicos [Computers & Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Processes](https://www.mdpi.com/journal/processes) e [Chemical Engineering Research and Design](https://www.journals.elsevier.com/chemical-engineering-research-and-design).
 - Desenvolvi e mantenho a biblioteca [KydLIB](https://github.com/afraniomelo/kydlib) para análise exploratória de dados oriundos principalmente de séries temporais industriais.
 - Atuei como voluntário da ONG [Engenheiros sem Fronteiras (RJ)](https://esf.org.br/nucleo-rio-de-janeiro/).
