@@ -22,4 +22,3 @@ As a literary writer:
 - I won the [Hernâni Cidade Literary Award](http://premioliterariohernanicidade.blogspot.com/) in 2021, offered by the municipality of [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), with the short story [Pearl door](https://afraniomelo.github.io/en/projects/porta_de_perola/).
 - In 2021, I attended the 36th edition of the [Literary Creation Workshop at PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), conducted by [Luiz Antonio de Assis Brasil](http://www.laab.com.br/vida.html).
 - I am currently immersed in the writing of Asymptote, my first novel.
-

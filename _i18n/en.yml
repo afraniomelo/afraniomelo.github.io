@@ -35,5 +35,16 @@ projects:
     nanoconsciencia: nanoconsciousness
     voce_em_mim: you in me
   descriptions:
-    nanoconsciencia: Published in the anthologies Furos na carne (Bestiário, 2022) and Questão de tempo (Persona, 2022).
-    porta_de_perola: Winner of the Hernâni Cidade Literary Award in 2021.
+    nanoconsciousness: Published in the anthologies "Furos na carne" (Bestiário, 2022) and "Questão de tempo" (Persona, 2022).
+    porta_de_perola: Winner of the Hernâni Cidade Literary Award 2021.
+    python: Python Crash Course (Jupyter notebook).
+    c: Introduction to C/C++ programming (slides and codes).
+    eqe476: Course offered to Chemical Engineering and Food Engineering students at the School of Chemistry/UFRJ.
+    eqe473: Course offered to Chemical Engineering students at the School of Chemistry/UFRJ.
+    discurso_cd: Graduation speech of the first class of data scientists graduating from Petrobras University.
+    ds_ml: Data Science and Machine Learning in practice - Introduction and applications in the process industry (video lectures, Jupyter notebooks, and slides).
+    matlab: Introduction to MATLAB for Engineering (slides, exercises, and codes).
+    voce_em_mim: Presented as the final project in the Creative Writing Workshop at PUC-RS.
+    guinas: Published in the anthology "Furos na carne" (Bestiário, 2022).
+    pvs: Discipline offered in the Social Pre-University course of the CECIERJ Foundation.
+
