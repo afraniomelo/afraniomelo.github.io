@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: titles.ensino
 permalink: /ensino/
 description: descriptions.ensino

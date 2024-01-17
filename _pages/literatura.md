@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: titles.literatura
 permalink: /literatura/
 description: descriptions.literatura

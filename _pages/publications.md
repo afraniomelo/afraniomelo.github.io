@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 permalink: /ciencia/
 title: titles.publications
 description: descriptions.publications
