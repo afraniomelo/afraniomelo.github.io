@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects.titles.ds_ml
-description: Data Science e Machine Learning na prática - Introdução e aplicações na indústria de processos (videoaulas, notebooks Jupyter e slides).
+description: projects.descriptions.ds_ml
 img: assets/img/machine_learning.jpg
 importance: 1
 category: cursos

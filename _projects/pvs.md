@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects.titles.pvs
-description: Disciplina oferecida no Pré-Vestibular Social da Fundação CECIERJ.
+description: projects.descriptions.pvs
 img: assets/img/chemistry.png
 importance: 7
 category: disciplinas

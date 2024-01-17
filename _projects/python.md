@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects.titles.python
-description: ​Curso relâmpago de Python (notebook Jupyter).
+description: projects.descriptions.python
 img: assets/img/python.png
 importance: 2
 category: cursos

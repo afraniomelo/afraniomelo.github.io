@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects.titles.voce_em_mim
-description: Apresentado como projeto final na Oficina de Criação Literária da PUC-RS.
+description: projects.descriptions.voce_em_mim
 img: assets/img/ximeninho.jpg
 importance: 2
 category: contos

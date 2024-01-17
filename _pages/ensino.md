@@ -2,7 +2,7 @@
 layout: page
 title: titles.ensino
 permalink: /ensino/
-description: Materiais de cursos e disciplinas.
+description: descriptions.ensino
 nav: true
 display_categories: [cursos, disciplinas]
 horizontal: false

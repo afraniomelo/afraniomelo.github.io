@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects.titles.guinas
-description: Publicado na antologia Furos na carne (Bestiário, 2022).
+description: projects.descriptions.guinas
 img: assets/img/guinas.jpg
 importance: 3
 category: contos
