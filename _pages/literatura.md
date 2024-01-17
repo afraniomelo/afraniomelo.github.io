@@ -4,7 +4,11 @@ title: titles.literatura
 permalink: /literatura/
 description: descriptions.literatura
 nav: true
+{% if site.lang == 'pt-br' %}
 display_categories: [contos, discursos]
+{% elsif site.lang == 'en' %}
+display_categories: [stories, speeches]
+{% endif %}
 horizontal: false
 ---
 

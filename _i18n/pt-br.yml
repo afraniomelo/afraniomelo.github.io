@@ -48,4 +48,16 @@ projects:
     voce_em_mim: Apresentado como projeto final na Oficina de Criação Literária da PUC-RS.
     guinas: Publicado na antologia Furos na carne (Bestiário, 2022).
     pvs: Disciplina oferecida no Pré-Vestibular Social da Fundação CECIERJ.
-    
+  categories:
+    pvs: disciplinas
+    python: cursos
+    c: cursos
+    eqe476: disciplinas
+    discurso_cd: discursos
+    eqe473: disciplinas
+    guinas: contos
+    ds_ml: cursos
+    matlab: cursos
+    porta_de_perola: contos
+    nanoconsciencia: contos
+    voce_em_mim: contos

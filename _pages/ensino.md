@@ -4,7 +4,11 @@ title: titles.ensino
 permalink: /ensino/
 description: descriptions.ensino
 nav: true
+{% if site.lang == 'pt-br' %}
 display_categories: [cursos, disciplinas]
+{% elsif site.lang == 'en' %}
+display_categories: [courses, disciplines]
+{% endif %}
 horizontal: false
 ---
 

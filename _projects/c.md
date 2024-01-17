@@ -4,7 +4,7 @@ title: projects.titles.c
 description: projects.descriptions.c
 img: assets/img/cpp.jpg
 importance: 4
-category: cursos
+category: projects.categories.c
 ---
 
 * [Slides](https://github.com/afraniomelo/curso-c-cpp/blob/master/curso_c.pdf).

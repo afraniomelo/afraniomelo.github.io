@@ -48,4 +48,16 @@ projects:
     voce_em_mim: Presented as the final project in the Creative Writing Workshop at PUC-RS.
     guinas: Published in the anthology "Furos na carne" (Bestiário, 2022).
     pvs: Discipline offered in the Social Pre-University course of the CECIERJ Foundation.
-
+  categories:
+    pvs: disciplines
+    python: courses
+    c: courses
+    eqe476: disciplines
+    discurso_cd: speeches
+    eqe473: disciplines
+    guinas: stories
+    ds_ml: courses
+    matlab: courses
+    porta_de_perola: stories
+    nanoconsciencia: stories
+    voce_em_mim: stories

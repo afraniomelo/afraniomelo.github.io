@@ -4,7 +4,7 @@ title: projects.titles.pvs
 description: projects.descriptions.pvs
 img: assets/img/chemistry.png
 importance: 7
-category: disciplinas
+category: projects.categories.pvs
 ---
 
 ## aulas
