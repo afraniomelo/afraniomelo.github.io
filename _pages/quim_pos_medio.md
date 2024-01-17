@@ -1,6 +1,6 @@
 ---
 layout: page
-title: a química além do ensino médio
+title: textos_pvs.titles.quim_pos_medio
 permalink: /quim_pos_medio/
 description:
 nav: false

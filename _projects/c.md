@@ -1,6 +1,6 @@
 ---
 layout: page
-title: c/c++
+title: projects.titles.c
 description: Introdução à programação em C/C++ (slides e códigos).
 img: assets/img/cpp.jpg
 importance: 4

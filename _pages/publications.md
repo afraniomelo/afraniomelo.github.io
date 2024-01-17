@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ciencia/
-title: ciência
+title: titles.publications
 description: Lista de trabalhos científicos publicados.
 years: [2023, 2022, 2021, 2019]
 nav: true

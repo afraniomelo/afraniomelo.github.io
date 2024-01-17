@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vamos fazer tudo valer a pena!
+title: textos_pvs.titles.valer_a_pena
 permalink: /valer_a_pena/
 description:
 nav: false

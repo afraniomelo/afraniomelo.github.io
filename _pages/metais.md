@@ -1,6 +1,6 @@
 ---
 layout: page
-title: metais
+title: textos_pvs.titles.metais
 permalink: /metais/
 description:
 nav: false

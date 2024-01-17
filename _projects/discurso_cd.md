@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cientistas de dados 2022
+title: projects.titles.discurso_cd
 description: Discurso de formatura da primeira turma de cientistas de dados egressos da Universidade Petrobras.
 img: assets/img/formatura.jpg
 importance: 1

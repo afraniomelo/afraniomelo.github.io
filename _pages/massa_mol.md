@@ -1,6 +1,6 @@
 ---
 layout: page
-title: relação entre massa e mol
+title: textos_pvs.titles.massa_mol
 permalink: /massa_mol/
 description: 
 nav: false

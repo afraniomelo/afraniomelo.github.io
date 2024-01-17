@@ -1,6 +1,6 @@
 ---
 layout: page
-title: a engenharia química
+title: textos_pvs.titles.eng_quimica
 permalink: /eng_quim/
 description:
 nav: false

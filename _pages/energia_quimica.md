@@ -1,6 +1,6 @@
 ---
 layout: page
-title: energia química
+title: textos_pvs.titles.energia_quimica
 permalink: /energia_quimica/
 description: 
 nav: false

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: matlab
+title: projects.titles.matlab
 description: ​Introdução ao MATLAB para Engenharia (slides, exercícios e códigos).
 img: assets/img/matlab.png
 importance: 3

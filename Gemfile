@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'htmlbeautifier'
     gem 'jekyll-seo-tag'
     gem 'jekyll-google_search_console_verification_file'
+    gem 'jekyll-multiple-languages-plugin'
 end
 group :other_plugins do
     gem 'httparty'

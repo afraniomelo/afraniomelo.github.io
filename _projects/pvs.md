@@ -1,6 +1,6 @@
 ---
 layout: page
-title: química (pvs)
+title: projects.titles.pvs
 description: Disciplina oferecida no Pré-Vestibular Social da Fundação CECIERJ.
 img: assets/img/chemistry.png
 importance: 7

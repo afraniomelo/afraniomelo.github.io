@@ -1,0 +1,32 @@
+titles:
+  about: about
+  news: news
+  publications: science
+  literatura: literature
+  ensino: teaching
+  unk: page not found
+textos_pvs:
+  titles:
+    energia_quimica: energia química (portuguese)
+    eng_quimica: a engenharia química (portuguese)
+    estequiometria: estequiometria em reações químicas (portuguese)
+    massa_mol: relação entre massa e mol (portuguese)
+    metais: metais (portuguese)
+    quantica1: o mundo do muito pequeno - parte 1 (portuguese)
+    quantica2: o mundo do muito pequeno - parte 2 (portuguese)
+    quim_pos_medio: a química além do ensino médio (portuguese)
+    valer_a_pena: vamos fazer tudo valer a pena! (portuguese)
+projects:
+  titles:
+    pvs: chemistry, pvs (portuguese)
+    python: python (portuguese)
+    c: c/c++ (portuguese)
+    eqe476: eqe476 - mass transfer (portuguese)
+    discurso_cd: data scientists 2022
+    eqe473: eqe473 - unit operations I
+    guinas: yaws
+    ds_ml: data science and machine learning (portuguese)
+    matlab: matlab (portuguese)
+    porta_de_perola: pearl door
+    nanoconsciencia: nanoconsciência (portuguese)
+    voce_em_mim: you in me

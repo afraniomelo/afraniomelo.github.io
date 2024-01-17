@@ -1,6 +1,6 @@
 ---
 layout: page
-title: python
+title: projects.titles.python
 description: ​Curso relâmpago de Python (notebook Jupyter).
 img: assets/img/python.png
 importance: 2

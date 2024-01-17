@@ -1,6 +1,6 @@
 ---
 layout: page
-title: estequiometria em reações químicas
+title: textos_pvs.titles.estequiometria
 permalink: /estequiometria/
 description: 
 nav: false

@@ -10,7 +10,7 @@ middle_name:
 last_name: melo
 email: afraeq@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  escritor literário/engenheiro químico/cientista de dados/professor.
+  ciência, tecnologia & literatura
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -170,6 +170,11 @@ plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-google_search_console_verification_file
+  - jekyll-multiple-languages-plugin
+
+# configurações de vários idiomas
+languages: ["pt-br", "en"]
+default_locale_in_subfolder: false
 
 google_search_console:
   verification_file_code: 9a7cba285146445b

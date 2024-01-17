@@ -4,7 +4,7 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
-          {% if page.title != "about" -%}
+          {% if page.permalink != '/' %}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
               {%- if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif -%}
           </a>
@@ -25,10 +25,14 @@
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
+              {% for page in site.pages %}
+                {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
+              {% endfor %}
+
               <!-- About -->
-              <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">about
-                  {%- if page.title == "about" -%}
+              <li class="nav-item {% if page.title == about_title %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | prepend: site.baseurl }}">about
+                  {%- if page.title == about_title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
@@ -36,7 +40,7 @@
               {% if site.blog_name %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">blog
+                <a class="nav-link" href="{{ '/blog/' | prepend: site.baseurl  }}">blog
                   {%- if page.title == "blog" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -50,7 +54,7 @@
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{% t p.title %}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -60,14 +64,14 @@
                   {%- if child.title == 'divider' %}
                   <div class="dropdown-divider"></div>
                   {%- else %}
-                  <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
+                  <a class="dropdown-item" href="{{ child.permalink | prepend: site.baseurl  }}">{% t child.title %}</a>
                   {%- endif -%}
                   {% endfor %}
                 </div>
               </li>
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
+                <a class="nav-link" href="{{ p.url | prepend: site.baseurl  }}">{% t p.title %}
                   {%- if page.title == p.title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -77,7 +81,14 @@
               {%- endif -%}
               {% endfor -%}
               {%- if site.enable_darkmode %}
-
+                <!-- Mudar a lingua -->
+                <li class="nav-item active">
+                  {% if site.lang == "pt-br" %}
+                  <a class="nav-link" href="{{site.baseurl_root}}/en{{page.url}}"> EN </a>
+                  {% elsif site.lang == "en" %}
+                  <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> PT-BR </a>
+                  {% endif %}
+                </li>
               <!-- Toogle theme mode -->
               <div class = "toggle-container">
                 <a id = "light-toggle">

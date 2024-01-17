@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ensino
+title: titles.ensino
 permalink: /ensino/
 description: Materiais de cursos e disciplinas.
 nav: true

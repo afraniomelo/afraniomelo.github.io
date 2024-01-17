@@ -1,6 +1,6 @@
 ---
 layout: page
-title: literatura
+title: titles.literatura
 permalink: /literatura/
 description: Alguns de meus textos literários.
 nav: true

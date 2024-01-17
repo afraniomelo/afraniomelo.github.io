@@ -1,6 +1,6 @@
 ---
 layout: page
-title: o mundo do muito pequeno - parte 2
+title: textos_pvs.titles.quantica2
 permalink: /quantica2/
 description: 
 nav: false

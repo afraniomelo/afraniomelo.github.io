@@ -1,6 +1,6 @@
 ---
 layout: about
-title: sobre
+title: titles.about
 permalink: /
 subtitle: ciência, tecnologia & literatura
 

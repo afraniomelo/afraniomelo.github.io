@@ -1,6 +1,6 @@
 ---
 layout: page
-title: você em mim
+title: projects.titles.voce_em_mim
 description: Apresentado como projeto final na Oficina de Criação Literária da PUC-RS.
 img: assets/img/ximeninho.jpg
 importance: 2
