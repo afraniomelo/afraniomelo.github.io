@@ -7,7 +7,7 @@ Como engenheiro químico e cientista de dados:
 - Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa sobre a interface entre ciência de dados e engenharia de sistemas em processos, desenvolvendo metodologias para o monitoramento de processos industriais.
 - Publiquei artigos científicos nos periódicos [Computers & Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Industrial & Engineering Chemistry Research](https://pubs.acs.org/journal/iecred), entre outros.
 - Desenvolvi e mantenho a biblioteca [KydLIB](https://github.com/afraniomelo/kydlib) para análise exploratória de dados oriundos principalmente de séries temporais industriais.
-- Atuei como voluntário da ONG [Engenheiros sem Fronteiras (RJ)](https://esf.org.br/nucleo-rio-de-janeiro/).
+- Atuei como voluntário da ONG [Engenheiros sem Fronteiras (RJ)](https://esf-rio.org/).
 
 Como professor: 
 
