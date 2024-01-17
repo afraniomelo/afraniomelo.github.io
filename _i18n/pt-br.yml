@@ -5,6 +5,8 @@ titles:
   literatura: literatura
   ensino: ensino
   unk: página não encontrada
+descriptions:
+  literatura: Alguns de meus textos literários.
 textos_pvs:
   titles:
     energia_quimica: energia química
@@ -30,3 +32,5 @@ projects:
     porta_de_perola: porta de pérola
     nanoconsciencia: nanoconsciência
     voce_em_mim: você em mim
+  descriptions:
+    nanoconsciencia: Publicado nas antologias Furos na carne (Bestiário, 2022) e Questão de tempo (Persona, 2022).

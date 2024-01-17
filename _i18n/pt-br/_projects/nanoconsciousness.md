@@ -1,12 +1,3 @@
----
-layout: page
-title: projects.titles.nanoconsciencia
-description: Publicado nas antologias Furos na carne (Bestiário, 2022) e Questão de tempo (Persona, 2022).
-img: assets/img/nanoconsciencia.jpg
-importance: 4
-category: contos
----
-
 ATO ÚNICO
 
 *Noite chuvosa de maio de 53520. A miniaturização da inteligência artificial atingiu um estágio tal que cada ser humano transformou-se em uma complexa sociedade de trilhões de entidades bioquímicas providas de anseios e paixões. Moléculas têm finalidades. Substâncias montam sindicatos. Ligações intermoleculares se baseiam em princípios políticos e de fraternidade. A ausência de consciência perdura meramente do nível atômico para baixo. A38-Robertinho-Z está com febre alta há dias e os mensageiros enviados para negociar com os anticorpos acabam de estabelecer contato com suas redes neurais.*

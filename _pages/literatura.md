@@ -2,7 +2,7 @@
 layout: page
 title: titles.literatura
 permalink: /literatura/
-description: Alguns de meus textos literários.
+description: descriptions.literatura
 nav: true
 display_categories: [contos, discursos]
 horizontal: false

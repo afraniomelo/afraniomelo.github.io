@@ -5,6 +5,8 @@ titles:
   literatura: literature
   ensino: teaching
   unk: page not found
+descriptions:
+  literatura: Some of my literary texts.
 textos_pvs:
   titles:
     energia_quimica: energia química (portuguese)
@@ -30,3 +32,5 @@ projects:
     porta_de_perola: pearl door
     nanoconsciencia: nanoconsciousness
     voce_em_mim: you in me
+  descriptions:
+    nanoconsciencia: Published in the anthologies Furos na carne (Bestiário, 2022) and Questão de tempo (Persona, 2022).
