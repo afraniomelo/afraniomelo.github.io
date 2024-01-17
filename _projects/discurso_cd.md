@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: projects.titles.discurso_cd
 description: projects.descriptions.discurso_cd
 img: assets/img/formatura.jpg
