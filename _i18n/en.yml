@@ -10,6 +10,11 @@ descriptions:
   literatura: Some of my literary texts.
   ensino: Course and subject materials (in Portuguese).
   publications: List of published scientific works.
+categories:
+  contos: stories
+  discursos: speeches
+  cursos: courses
+  disciplinas: disciplines
 textos_pvs:
   titles:
     energia_quimica: energia química (portuguese)

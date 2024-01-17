@@ -10,6 +10,11 @@ descriptions:
   literatura: Alguns de meus textos literários.
   ensino: Materiais de cursos e disciplinas.
   publications: Lista de trabalhos científicos publicados.
+categories:
+  contos: contos
+  discursos: discursos
+  cursos: cursos
+  disciplinas: disciplinas
 textos_pvs:
   titles:
     energia_quimica: energia química
