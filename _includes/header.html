@@ -80,15 +80,15 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
-              {%- if site.enable_darkmode %}
                 <!-- Mudar a lingua -->
-                <li class="nav-item active">
-                  {% if site.lang == "pt-br" %}
-                  <a class="nav-link" href="{{site.baseurl_root}}/en{{page.url}}"> EN </a>
-                  {% elsif site.lang == "en" %}
-                  <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> PT-BR </a>
-                  {% endif %}
-                </li>
+                              <li class="nav-item active">
+                                {% if site.lang == "pt-br" %}
+                                <a class="nav-link" href="{{site.baseurl_root}}/en{{page.url}}"> EN </a>
+                                {% elsif site.lang == "en" %}
+                                <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> PT-BR </a>
+                                {% endif %}
+                              </li>
+              {%- if site.enable_darkmode %}
               <!-- Toogle theme mode -->
               <div class = "toggle-container">
                 <a id = "light-toggle">
