@@ -6,7 +6,9 @@ titles:
   ensino: teaching
   unk: page not found
 descriptions:
+  about: science, technology and literature
   literatura: Some of my literary texts.
+  ensino: Course and subject materials (in Portuguese).
 textos_pvs:
   titles:
     energia_quimica: energia química (portuguese)
@@ -20,7 +22,7 @@ textos_pvs:
     valer_a_pena: vamos fazer tudo valer a pena! (portuguese)
 projects:
   titles:
-    pvs: chemistry, pvs (portuguese)
+    pvs: pvs - chemistry (portuguese)
     python: python (portuguese)
     c: c/c++ (portuguese)
     eqe476: eqe476 - mass transfer (portuguese)
@@ -34,3 +36,4 @@ projects:
     voce_em_mim: you in me
   descriptions:
     nanoconsciencia: Published in the anthologies Furos na carne (Bestiário, 2022) and Questão de tempo (Persona, 2022).
+    porta_de_perola: Winner of the Hernâni Cidade Literary Award in 2021.

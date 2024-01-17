@@ -6,7 +6,9 @@ titles:
   ensino: ensino
   unk: página não encontrada
 descriptions:
+  about: ciência, tecnologia & literatura
   literatura: Alguns de meus textos literários.
+  ensino: Materiais de cursos e disciplinas.
 textos_pvs:
   titles:
     energia_quimica: energia química
@@ -34,3 +36,4 @@ projects:
     voce_em_mim: você em mim
   descriptions:
     nanoconsciencia: Publicado nas antologias Furos na carne (Bestiário, 2022) e Questão de tempo (Persona, 2022).
+    porta_de_perola: Vencedor do Prêmio Literário Hernâni Cidade de 2021. 

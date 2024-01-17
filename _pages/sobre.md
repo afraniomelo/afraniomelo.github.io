@@ -2,7 +2,7 @@
 layout: about
 title: titles.about
 permalink: /
-subtitle: ciência, tecnologia & literatura
+subtitle: descriptions.about 
 
 profile:
   align: right

@@ -11,15 +11,15 @@ As a chemical engineer and data scientist:
 
 As a lecturer: 
 
-- Ministrei o curso [Data Science e Machine Learning na Indústria de Processos](https://afraniomelo.github.io/projects/ds_ml/) pela [Escola Piloto Prof. Giulio Massarani](http://www.escolapiloto.peq.coppe.ufrj.br/index.php/pt/). As [doze videoaulas](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) estão disponíveis no YouTube.
-- Ministrei por um ano as disciplinas [Transferência de Massa](https://afraniomelo.github.io/projects/eqe476/) e [Operações Unitárias I](https://afraniomelo.github.io/projects/eqe473/) na [EQ/UFRJ](http://www.eq.ufrj.br/).
-- Lecionei [Química](https://afraniomelo.github.io/projects/pvs/) por dez anos no [Pré-Vestibular Social (PVS) da Fundação CECIERJ](https://www.cecierj.edu.br/pre-vestibular-social/).
-- Ministrei minicursos de programação em [Python](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook), [Matlab](https://afraniomelo.github.io/projects/matlab/) e [C/C++](https://afraniomelo.github.io/projects/c/).
+- I taught the course [Data Science and Machine Learning in the Process Industry](https://afraniomelo.github.io/projects/ds_ml/) at the [Prof. Giulio Massarani Pilot School](http://www.escolapiloto.peq.coppe.ufrj.br/). The [twelve video lessons in Portuguese](https://www.youtube.com/watch?v=0iE3JsQpU_U&list=PLvr45Arc0UpzsRhzq3q4_KmZcm0utwvvB) are available on YouTube.
+- I taught the courses [Mass Transfer](https://afraniomelo.github.io/projects/eqe476/) and [Unit Operations I](https://afraniomelo.github.io/projects/eqe473/) for one year at [EQ/UFRJ](http://novo.eq.ufrj.br/en/home-en/).
+- I taught Chemistry for ten years at the [Social Pre-University Course (Pré-Vestibular Social, PVS) of the CECIERJ Foundation](https://www.cecierj.edu.br/pre-vestibular-social/).
+- I conducted short courses on programming in [Python](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook), [Matlab](https://afraniomelo.github.io/projects/matlab/), and [C/C++](https://afraniomelo.github.io/projects/c/).
 
-Como escritor literário:
+As a literary writer:
 
-- Participei das coletâneas [Furos na carne](https://www.bestiario.com.br/livros/furos_na_carne.html) (Bestiário - 2022), [Questão de tempo](https://www.editorapersona.com/product-page/quest%C3%A3o-de-tempo) (Persona - 2022), Contos fantásticos (CBJE - 2017), Nó em pingo d'água (CBJE - 2016) e Histórias necessárias (Big Time - 2015).
-- Venci o [Prêmio Literário Hernâni Cidade](http://premioliterariohernanicidade.blogspot.com/) de 2021, oferecido pelo município de [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), com o conto [Porta de Pérola](https://afraniomelo.github.io/projects/porta_de_perola/).
-- Cursei em 2021 a 36ᵃ edição da [Oficina de Criação Literária da PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), ministrada por [Luiz Antonio de Assis Brasil](http://www.laab.com.br/vida.html).
-- Estou na saga da escrita de Assíntota, meu primeiro romance.
+- I participated in the anthologies [Furos na carne](https://www.bestiario.com.br/livros/furos_na_carne.html) (Bestiário - 2022), [Questão de tempo](https://www.editorapersona.com/product-page/quest%C3%A3o-de-tempo) (Persona - 2022), Contos fantásticos (CBJE - 2017), Nó em pingo d'água (CBJE - 2016), and Histórias necessárias (Big Time - 2015).
+- I won the [Hernâni Cidade Literary Award](http://premioliterariohernanicidade.blogspot.com/) in 2021, offered by the municipality of [Redondo](https://www.cm-redondo.pt/) (Évora - Portugal), with the short story [Pearl door](https://afraniomelo.github.io/en/projects/porta_de_perola/).
+- In 2021, I attended the 36th edition of the [Literary Creation Workshop at PUC-RS](https://www.pucrs.br/humanidades/oficina-de-criacao-literaria/), conducted by [Luiz Antonio de Assis Brasil](http://www.laab.com.br/vida.html).
+- I am currently immersed in the writing of Asymptote, my first novel.
 
