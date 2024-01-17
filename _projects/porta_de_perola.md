@@ -7,4 +7,4 @@ importance: 1
 category: contos
 ---
 
-{% translate_file _projects/porta_de_perola.md %}
+{% translate_file projects/porta_de_perola.md %}

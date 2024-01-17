@@ -7,4 +7,4 @@ importance: 4
 category: contos
 ---
 
-{% translate_file _projects/nanoconsciousness.md %}
+{% translate_file projects/nanoconsciousness.md %}
