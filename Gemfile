@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'classifier-reborn'
     gem 'uri', '0.13.0'
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -21,6 +22,13 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-google_search_console_verification_file'
     gem 'jekyll-multiple-languages-plugin'
+    gem 'jekyll-get-json'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
+    gem 'jekyll-toc'
+    gem 'mini_racer'
+
 end
 group :other_plugins do
     gem 'httparty'
