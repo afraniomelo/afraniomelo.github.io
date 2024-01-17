@@ -17,7 +17,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>, <a href="https://pixabay.com" target="_blank">Pixabay</a> and <a href="https://commons.wikimedia.org/" target="_blank">Wikimedia Commons</a>.
 keywords: data-science, machine-learning, literatura, engenharia-quimica, matlab, programacao, python, contos, escrita  # add your own keywords or leave empty
 
-lang: pt # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: pt-br # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://afraniomelo.github.io # the base hostname & protocol for your site
