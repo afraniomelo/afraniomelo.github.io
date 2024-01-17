@@ -9,6 +9,7 @@ descriptions:
   about: science, technology and literature
   literatura: Some of my literary texts.
   ensino: Course and subject materials (in Portuguese).
+  publications: List of published scientific works.
 textos_pvs:
   titles:
     energia_quimica: energia química (portuguese)
@@ -27,7 +28,7 @@ projects:
     c: c/c++ (portuguese)
     eqe476: eqe476 - mass transfer (portuguese)
     discurso_cd: data scientists 2022
-    eqe473: eqe473 - unit operations I
+    eqe473: eqe473 - unit operations I (portuguese)
     guinas: yaws
     ds_ml: data science and machine learning (portuguese)
     matlab: matlab (portuguese)
@@ -35,7 +36,7 @@ projects:
     nanoconsciencia: nanoconsciousness
     voce_em_mim: you in me
   descriptions:
-    nanoconsciousness: Published in the anthologies "Furos na carne" (Bestiário, 2022) and "Questão de tempo" (Persona, 2022).
+    nanoconsciencia: Published in the anthologies "Furos na carne" (Bestiário, 2022) and "Questão de tempo" (Persona, 2022).
     porta_de_perola: Winner of the Hernâni Cidade Literary Award 2021.
     python: Python Crash Course (Jupyter notebook).
     c: Introduction to C/C++ programming (slides and codes).
