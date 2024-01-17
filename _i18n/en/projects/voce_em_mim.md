@@ -20,7 +20,7 @@ I don't know why I was so dumbfounded. The possibility of her understanding what
 
 She arched her eyebrows.
 
--- I would never have imagined that you girls were clueless about it.
+-- I would never have imagined that you guys were clueless about it.
 
 You must be aware that there are infinite possibilities for positioning a world in relation to its immediate superior. In the one I have designed, beings have an awareness of the existence of a reality above and are endowed with a sense of life that involves the encounter between realities. Like a religion, you know? But undefined, without dogmas, rituals, scriptures, none of that. Just a vague idea that people are born knowing. It was my way of not lying while still creating a mystery. This way our encounter would have a touch of specialness, of transcendence even. But the goal was for her to experience everything naturally and piece it together later, attributing meaning as she remembered. It would be more natural. More beautiful, you know? Anyway, I wasn't so sad because the main thing she still couldn't know: that world was hers, only hers, and existed for her sake.
 
@@ -44,7 +44,7 @@ From there, things got worse. Not that we were less affectionate or argued, but 
 
 After one of these disappearances, the crazy girl surprised me and lay on top of me. I always loved the pressure of eighty-something kilos on my body and bravely endured the lack of air to the limit. This time her face was close to mine, her cold lips on my cheek, and her gaze turned to the horizon. When I was almost suffocating, she asked:
 
--- You gals created the world, right?
+-- You folks created the world, right?
 
 -- You could say that.
 

@@ -16,5 +16,4 @@ nav: true
 
 </div>
 
-* Tese de Doutorado: [Integração Humano-Máquina para o Monitoramento de Processos Industriais Baseado em Dados](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.xhtml?popup=true&id_trabalho=13725906)
-* Dissertação de Mestrado: [Equilíbrio de Fases de Soluções Polidispersas de Polímeros](http://hdl.handle.net/11422/7650)
+{% translate_file pages/publications.md %}
