@@ -14,7 +14,8 @@ horizontal: false
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{% t category %}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", % t category % -%}
+  {%- assign translated_category = category | t -%}
+  {%- assign categorized_projects = site.projects | where: "category", translated_category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
