@@ -1,7 +1,7 @@
 titles:
   about: sobre
   news: news
-  publications: ciência
+  ciencia: ciência
   literatura: literatura
   ensino: ensino
   unk: página não encontrada
@@ -9,7 +9,7 @@ descriptions:
   about: ciência, tecnologia & literatura
   literatura: Alguns de meus textos literários.
   ensino: Materiais de cursos e disciplinas.
-  publications: Lista de trabalhos científicos publicados.
+  ciencia: Lista de trabalhos científicos publicados.
 categories:
   contos: contos
   discursos: discursos

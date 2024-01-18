@@ -1,7 +1,7 @@
 titles:
   about: about
   news: news
-  publications: science
+  ciencia: science
   literatura: literature
   ensino: teaching
   unk: page not found
@@ -9,7 +9,7 @@ descriptions:
   about: science, technology and literature
   literatura: Some of my literary texts.
   ensino: Course and subject materials (in Portuguese).
-  publications: List of published scientific works.
+  ciencia: List of published scientific works.
 categories:
   contos: stories
   discursos: speeches

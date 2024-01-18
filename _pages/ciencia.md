@@ -1,12 +1,12 @@
 ---
 layout: page2
 permalink: /ciencia/
-title: titles.publications
-description: descriptions.publications
+title: titles.ciencia
+description: descriptions.ciencia
 years: [2023, 2022, 2021, 2019]
 nav: true
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/ciencia.md -->
 <div class="publications">
 
 {%- for y in page.years %}
@@ -16,4 +16,4 @@ nav: true
 
 </div>
 
-{% translate_file pages/publications.md %}
+{% translate_file pages/ciencia.md %}
