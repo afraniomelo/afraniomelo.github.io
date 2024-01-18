@@ -17,7 +17,7 @@ horizontal: false
   {% assign category = display_categories[index] %}
   {% assign category_translation = display_categories_translations[index] %}
   <h2 class="category">{% t category_translation %}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category | t -%}
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
