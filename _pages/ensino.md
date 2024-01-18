@@ -13,7 +13,7 @@ horizontal: false
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  {% for index in (0..page.display_categories | size) %}
+  {% for index in (0..page.display_categories | size | minus: 1) %}
   {% assign category = page.display_categories[index] %}
   {% assign category_translation = page.display_categories_translations[index] %}
   <h2 class="category">{% t category_translation %}</h2>
