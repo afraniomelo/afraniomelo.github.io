@@ -4,7 +4,8 @@ title: titles.ensino
 permalink: /ensino/
 description: descriptions.ensino
 nav: true
-display_categories: [categories.cursos, categories.disciplinas]
+display_categories: [contos, disciplinas]
+display_categories_translations: [categories.cursos, categories.disciplinas]
 horizontal: false
 ---
 
@@ -12,10 +13,11 @@ horizontal: false
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{% t category %}</h2>
-  {%- assign translated_category = category | t -%}
-  {%- assign categorized_projects = site.projects | where: "category", translated_category | t -%}
+  {% for index in (0..display_categories | size) %}
+  {% assign category = display_categories[index] %}
+  {% assign category_translation = display_categories_translations[index] %}
+  <h2 class="category">{% t category_translation %}</h2>
+  {%- assign categorized_projects = site.projects | where: "category", category | t -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}

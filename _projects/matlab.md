@@ -4,7 +4,7 @@ title: projects.titles.matlab
 description: projects.descriptions.matlab
 img: assets/img/matlab.png
 importance: 3
-category: projects.categories.matlab
+category: cursos
 ---
 
 Material do curso de Introdução ao MATLAB para Engenharia, ministrado em eventos como Semana da Escola de Química, SPETRO, entre outros.

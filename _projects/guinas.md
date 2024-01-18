@@ -4,7 +4,7 @@ title: projects.titles.guinas
 description: projects.descriptions.guinas
 img: assets/img/guinas.jpg
 importance: 4
-category: projects.categories.guinas
+category: contos
 ---
 
 {% translate_file projects/guinas.md %}
