@@ -31,7 +31,7 @@
 
               <!-- About -->
               <li class="nav-item {% if page.title == about_title %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | prepend: site.baseurl }}">about
+                <a class="nav-link" href="{{ '/' | prepend: site.baseurl }}">{{ about_title }}
                   {%- if page.title == about_title -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
