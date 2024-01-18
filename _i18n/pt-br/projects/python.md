@@ -1,0 +1,1 @@
+Acesse [aqui](https://www.kaggle.com/code/afrniomelo/curso-rel-mpago-de-python/notebook) o material do curso.
