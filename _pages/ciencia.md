@@ -3,7 +3,7 @@ layout: page2
 permalink: /ciencia/
 title: titles.ciencia
 description: descriptions.ciencia
-years: [2023, 2022, 2021, 2019]
+years: [2024, 2023, 2022, 2021, 2019]
 nav: true
 ---
 <!-- _pages/ciencia.md -->
