@@ -4,9 +4,9 @@ Como engenheiro químico e cientista de dados:
 
 - Atuo na [Petrobras](https://petrobras.com.br/pt/) desenvolvendo [pesquisa e inovação](https://petrobras.com.br/inovacao-e-tecnologia/centro-de-pesquisa) na área de [exploração e produção de petróleo e gás](https://petrobras.com.br/pt/nossas-atividades/areas-de-atuacao/exploracao-e-producao-de-petroleo-e-gas/), com ênfase em tecnologias de [elevação artificial](https://pt.wikipedia.org/wiki/Eleva%C3%A7%C3%A3o_de_petr%C3%B3leo) e [garantia de escoamento](https://pt.wikipedia.org/wiki/Garantia_do_escoamento).
 - Possuo graduação pela [EQ/UFRJ](http://www.eq.ufrj.br/) e mestrado e doutorado em engenharia química pela [COPPE/UFRJ](https://www.coppe.ufrj.br/). Ao longo desses doze anos de formação tive a honra de ser orientado por [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício  Melo Câmara](http://lattes.cnpq.br/8161545819744234) e [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
-- Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa sobre a interface entre ciência de dados e engenharia de sistemas em processos, desenvolvendo metodologias para o monitoramento de processos industriais.
+- Participo de projetos de código aberto que visam aplicar inteligência artificial ao monitoramento de processos industriais, como [BibMon](https://github.com/petrobras/bibmon), [3W](https://github.com/petrobras/3W) e [KydLIB](https://github.com/afraniomelo/kydlib).
+- Participei, como membro do [Grupo EngePol](https://www.instagram.com/engepolgrupo/), de projetos de pesquisa sobre a interface entre ciência de dados e engenharia de sistemas em processos.
 - Publiquei artigos científicos nos periódicos [Computers & Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Industrial & Engineering Chemistry Research](https://pubs.acs.org/journal/iecred), entre outros.
-- Desenvolvi e mantenho a biblioteca [KydLIB](https://github.com/afraniomelo/kydlib) para análise exploratória de dados oriundos principalmente de séries temporais industriais.
 - Atuei como voluntário da ONG [Engenheiros sem Fronteiras (RJ)](https://esf-rio.org/).
 
 Como professor: 

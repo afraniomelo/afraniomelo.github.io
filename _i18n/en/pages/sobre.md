@@ -4,9 +4,9 @@ As a chemical engineer and data scientist:
 
 - I work at [Petrobras](https://petrobras.com.br/en/) developing [research and innovation](https://petrobras.com.br/en/inovacao-e-tecnologia/centro-de-pesquisa) in the field of [oil and gas exploration and production](https://petrobras.com.br/en/quem-somos/exploracao-e-producao), with a focus on [artificial lift](https://en.wikipedia.org/wiki/Artificial_lift) and [flow assurance](https://en.wikipedia.org/wiki/Flow_assurance) technologies.
 - I have a bachelor's degree from [EQ/UFRJ](http://novo.eq.ufrj.br/en/home-en/) and a master's and doctoral degree in chemical engineering from [COPPE/UFRJ](https://www.coppe.ufrj.br/en). Over these twelve years of education, I had the honor of being guided by [José Carlos Pinto](http://lattes.cnpq.br/6479420970768737), [Fernando Pellegrini](http://lattes.cnpq.br/6669992155373315), [Maurício Melo Câmara](http://lattes.cnpq.br/8161545819744234), and [Heloísa Sanches](http://lattes.cnpq.br/2840875338255590).
-- As a member of the [EngePol Group](https://www.instagram.com/engepolgrupo/), I participated in research projects on the interface between data science and process systems engineering, developing methodologies for monitoring industrial processes.
+- I participate in open-source projects that aim to apply artificial intelligence to the monitoring of industrial processes, such as [BibMon](https://github.com/petrobras/bibmon), [3W](https://github.com/petrobras/3W) and [KydLIB](https://github.com/afraniomelo/kydlib).
+- As a member of the [EngePol Group](https://www.instagram.com/engepolgrupo/), I participated in research projects on the interface between data science and process systems engineering.
 - I have published scientific articles in journals such as [Computers & Chemical Engineering](https://www.journals.elsevier.com/computers-and-chemical-engineering), [Industrial & Engineering Chemistry Research](https://pubs.acs.org/journal/iecred), among others.
-- I developed and maintain the [KydLIB](https://github.com/afraniomelo/kydlib) library for exploratory data analysis mainly from industrial time series.
 - I volunteered for the NGO [Engineers Without Borders (RJ)](https://esf-rio.org/).
 
 As a lecturer: 
