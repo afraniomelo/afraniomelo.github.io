@@ -6,7 +6,7 @@ subtitle: descriptions.about
 
 profile:
   align: right
-  image: prof_pic2
+  image: prof_pic2.jpg
   address:
 
 news: true  # includes a list of news items
