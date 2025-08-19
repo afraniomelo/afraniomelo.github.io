@@ -54,7 +54,7 @@ projects:
     voce_em_mim: Presented as the final project in the Creative Writing Workshop at PUC-RS.
     guinas: Published in the anthology "Furos na carne" (Bestiário, 2022).
     pvs: Discipline offered in the Social Pre-University course of the CECIERJ Foundation.
-    tumimanda: 2025.
+    tumimanda: '2025'
   categories:
     pvs: disciplines
     python: courses
