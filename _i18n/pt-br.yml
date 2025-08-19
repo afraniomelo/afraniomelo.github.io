@@ -40,6 +40,7 @@ projects:
     porta_de_perola: porta de pérola
     nanoconsciencia: nanoconsciência
     voce_em_mim: você em mim
+    tumimanda: tumimanda
   descriptions:
     nanoconsciencia: Publicado nas antologias Furos na carne (Bestiário, 2022) e Questão de tempo (Persona, 2022).
     porta_de_perola: Vencedor do Prêmio Literário Hernâni Cidade de 2021. 
@@ -53,6 +54,7 @@ projects:
     voce_em_mim: Apresentado como projeto final na Oficina de Criação Literária da PUC-RS.
     guinas: Publicado na antologia Furos na carne (Bestiário, 2022).
     pvs: Disciplina oferecida no Pré-Vestibular Social da Fundação CECIERJ.
+    tumimanda: 2025.
   categories:
     pvs: disciplinas
     python: cursos
@@ -66,3 +68,4 @@ projects:
     porta_de_perola: contos
     nanoconsciencia: contos
     voce_em_mim: contos
+    tumimanda: contos
