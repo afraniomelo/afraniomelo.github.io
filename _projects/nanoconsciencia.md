@@ -3,7 +3,7 @@ layout: page2
 title: projects.titles.nanoconsciencia
 description: projects.descriptions.nanoconsciencia
 img: assets/img/nanoconsciencia.jpg
-importance: 3
+importance: 4
 category: contos
 ---
 
